@@ -1,0 +1,7 @@
+C:\Users\hieu1\source\repos\Baimoilap4\Baimoilap4\bin\Debug\Baimoilap4.exe.config
+C:\Users\hieu1\source\repos\Baimoilap4\Baimoilap4\bin\Debug\Baimoilap4.exe
+C:\Users\hieu1\source\repos\Baimoilap4\Baimoilap4\bin\Debug\Baimoilap4.pdb
+C:\Users\hieu1\source\repos\Baimoilap4\Baimoilap4\obj\Debug\‘GeometricObjectDemo.csproj.AssemblyReference.cache
+C:\Users\hieu1\source\repos\Baimoilap4\Baimoilap4\obj\Debug\‘GeometricObjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\hieu1\source\repos\Baimoilap4\Baimoilap4\obj\Debug\Baimoilap4.exe
+C:\Users\hieu1\source\repos\Baimoilap4\Baimoilap4\obj\Debug\Baimoilap4.pdb
